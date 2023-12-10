@@ -1,0 +1,5 @@
+.idea
+djvenv
+iieir/__pycache__
+iieir/migrations/__pycache__
+iieirserver/__pycache__
